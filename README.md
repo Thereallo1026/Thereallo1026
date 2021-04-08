@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apple171017
 - 👀 I’m interested in discord.py
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on liquidbounce fork liquiddrip
+- 💞️ I’m looking to collaborate on air
 - 📫 Thereallo#6969 on discord
 
 <!---
