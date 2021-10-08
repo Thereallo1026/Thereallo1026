@@ -1,5 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm apple171017 (Thereallo), I code python and some java, sucks at C, C# and C++
+I'm apple171017 (Thereallo), I code python and some java, don't even ask me about C, C# and C++
 
 Currently developimg Rektsky! Click [here](https://www.youtube.com/watch?v=IMAbzHamR6M) to check the preview!
 
