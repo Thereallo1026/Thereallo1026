@@ -17,7 +17,7 @@ You can find me on [![Twitter][1.2]][1]!
 
 [1]: https://twitter.com/Thereallo6
 
-![My discord](https://discord.c99.nl/widget/theme-1/620935109302026270.png)
+![My discord](https://discord.c99.nl/widget/theme-1/620935109303026270.png)
 
 
 # My Stats
