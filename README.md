@@ -7,7 +7,7 @@
 <h3 align="center">Find me on:</h3>
 
 <p align="center">
-<a href="https://twitter.com/Thereallo6" target="blank"><img align="center" src="https://shields.io/badge/twitter-@Thereallo6-20153a?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="Thereallo6" />
+<a href="https://twitter.com/Thereallo1026" target="blank"><img align="center" src="https://shields.io/badge/twitter-@Thereallo1026-20153a?logo=twitter&style=for-the-badge&labelColor=200f30&logoColor=8a52dd" alt="Thereallo1026" />
 </a>
 </p>
 <p align="center">
