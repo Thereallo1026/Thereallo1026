@@ -20,13 +20,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,astro,tailwind,cloudflare,vercel,nextjs,py,java,git,figma,discordjs,bun,aws,mongodb&perline=8" />
 </p>
 
-<h3 align="center">Stats for nerds:</h3>
-
-<p align="center">
-  <img src="https://thereallo-github-readme-stats.vercel.app/api?username=thereallo1026&show_icons=true&locale=en&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&title_color=ffffff&hide_border=true">
-</p>
-<p align="center">
-  <img src="https://thereallo-github-readme-stats.vercel.app/api/top-langs?username=thereallo1026&show_icons=true&locale=en&layout=compact&bg_color=45,200f30,20153a&text_color=ffffff&icon_color=E24BEB&ring_color=B698E3&title_color=ffffff&hide_border=true&hide=java">
-</p>
-
 <!-- this is so important: https://youtube.com/watch?v=dQw4w9WgXcQ -->
