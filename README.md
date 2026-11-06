@@ -1,8 +1,8 @@
-<h1 align="center">I break code</h1>
+<h1 align="center">I mass produce bugs</h1>
 
 <h3 align="center">I am Thereallo</h3>
 
-<p align="center">I do Python and Java and stuff.</p>
+<p align="center">I do web stuff mostly</p>
 
 <h3 align="center">Find me on:</h3>
 
