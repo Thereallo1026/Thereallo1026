@@ -17,7 +17,7 @@
 <h3 align="center">Stuff that I know:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,bun,cloudflare,vercel,tauri,rust,swift,threejs,git,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,bun,cloudflare,vercel,tauri,rust,swift,threejs,wasm,git,figma&perline=8" />
 </p>
 
 <!-- this is so important: https://youtube.com/watch?v=dQw4w9WgXcQ -->
